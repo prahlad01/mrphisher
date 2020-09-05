@@ -10,7 +10,7 @@ echo -e "         \e[96mUPDATING IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/mrphish 2> /dev/null; do 
+while git clone https://github.com/prahlad01/mrphish 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
